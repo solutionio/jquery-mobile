@@ -11,9 +11,11 @@
     "compiled/jquery.mobile.js"
   ],
   "styles": [
-    "compiled/jquery.mobile.css"
+    "compiled/jquery.mobile.css",
+		"compiled/jquery.mobile.structure.css",
+		"compiled/jquery.mobile.theme.min.css"
   ],
-	"html": [
+	"files": [
 		"compiled/images/ajax-loader.gif",
 		"compiled/images/icons-18-black.png", 
 		"compiled/images/icons-36-black.png",
