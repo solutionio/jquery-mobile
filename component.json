@@ -12,5 +12,12 @@
   ],
   "styles": [
     "compiled/jquery.mobile.css"
-  ]
+  ],
+	"html": [
+		"compiled/images/ajax-loader.gif",
+		"compiled/images/icons-18-black.png", 
+		"compiled/images/icons-36-black.png",
+		"compiled/images/icons-18-white.png",
+		"compiled/images/icons-36-white.png"
+	]
 }
