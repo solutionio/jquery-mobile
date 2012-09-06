@@ -1,21 +1,2 @@
-.project
-*~
-*.diff
-*.patch
-.DS_Store
-cache/
-combined/
-combine/
-compiled/
-tmp/
-*.swp
-.gitignore
-
-# branch preview
-branches
-
-# node build dependencies
-node_modules
-
-# phantom junit output
-build/test-results/
+components
+build

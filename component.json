@@ -1,0 +1,16 @@
+{
+  "name": "jquery-mobile",
+  "repo": "solutionio/jquery-mobile",
+  "description": "Jquery Mobile in component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+		"component/jquery": "*"
+	},
+  "scripts": [
+    "compiled/jquery.mobile.js"
+  ],
+  "styles": [
+    "compiled/jquery.mobile.css"
+  ]
+}
